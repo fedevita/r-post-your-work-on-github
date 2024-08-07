@@ -43,3 +43,15 @@ The data used in this project comes from three sources:
 
 The data includes information on the start and end times of trips, the duration of trips, the start and end stations, and user information such as user type, gender, and birth year.
 
+## Contributing
+
+If you want to contribute to this project, you can fork the repository and create a pull request. Please make sure to follow the guidelines below:
+
+- Write clear and concise commit messages.
+- Ensure that your code follows the PEP 8 style guide.
+- Include comments and docstrings in your code.
+- Write unit tests for any new functionality.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more details.
