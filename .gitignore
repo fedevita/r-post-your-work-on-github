@@ -1,1 +1,5 @@
 .github/**
+work/*.csv
+work/*.pdf
+resources/*
+.ipynb_checkpoints
