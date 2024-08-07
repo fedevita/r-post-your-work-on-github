@@ -6,6 +6,15 @@ Explore Bikeshare Data
 
 This project explores data related to bike sharing in three major cities in the United States: Chicago, New York City, and Washington, D.C. The purpose of this project is to understand bike usage patterns, identify peak usage times, and provide insights into the user demographics.
 
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Data](#data)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
 ## Installation
 
 To run this project, you need to have Docker and Docker Compose installed on your system. Follow the instructions below to set up and run the project using Docker Compose:
