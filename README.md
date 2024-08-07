@@ -55,3 +55,10 @@ If you want to contribute to this project, you can fork the repository and creat
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Contact
+
+If you have any questions or feedback, feel free to reach out:
+
+- **Email**: federico.vita1997@gmail.com
+- **GitHub**: [fedevita](https://github.com/fedevita)
