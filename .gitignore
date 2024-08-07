@@ -1,5 +1,5 @@
 .github/**
 work/*.csv
 work/*.pdf
-resources/*
+resources/*.docx
 .ipynb_checkpoints
